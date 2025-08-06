@@ -231,9 +231,9 @@ Make something amazing. Let AI do the heavy lifting.
 
 ## 🙌 Credits & Connect
 
-Built with 💡 by [Manish Kumar Singh](https://github.com/manishsingh11)
+Built with 💡 by [Manish Kumar Singh](https://github.com/Manishkumarsingh41)
 
-If you found this helpful, consider ⭐️ starring the repo and **[following me on GitHub](https://github.com/manishsingh11)** for more AI + Hackathon tools and projects.
+If you found this helpful, consider ⭐️ starring the repo and **[following me on GitHub](https://github.com/Manishkumarsingh41)** for more AI + Hackathon tools and projects.
 
 > Made with passion for building smart, fast, and impactful solutions using AI tools.
 
